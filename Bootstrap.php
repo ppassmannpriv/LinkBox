@@ -1,6 +1,6 @@
 <?php
 
-class Shopware_Plugins_Backend_ImageSlider_LinkBox extends Shopware_Components_Plugin_Bootstrap
+class Shopware_Plugins_Backend_LinkBox_Bootstrap extends Shopware_Components_Plugin_Bootstrap
 {
     public function getInfo()
     {
